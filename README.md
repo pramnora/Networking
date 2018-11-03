@@ -37,4 +37,4 @@ But, on the other hand, networking also comes with lots of 'invisible' dangers..
 
 This situation is, in fact, further complicated...in that we don't always quite deliberately choose to share our data with others through our own local computer; many businesses/or, government related departments do save our data on their supposedly 'protected' computers...which certain extremely 'skillful' hackers can get into anyway. So, the truth is, as long as your data is being stored inside of a computer; then, it is no longer safe. 
 
-They say to be forewarned is, also, to be forarmed; and, therefore, no longer having not even a single clue...knowledge is, indeed, power!
+They say to be forewarned is, also, to be forearmed; and, therefore, no longer having not even a single clue, anymore...knowledge is, indeed, power!
