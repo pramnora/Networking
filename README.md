@@ -24,3 +24,5 @@ It is, also, well worth bearing in mind that there are many different kinds of c
 - Internet connected TV's
 - etc.
 ...this means that some computers are 'wired'/and, others are, in fact, 'wireless'.
+
+Each of these computing devices has it's own uniquely identifying MAC address...; to which can be assigned a 'unique' IP address. The IP address can be assigned either 'statically'/or else, 'dynamically, instead. This means, the device MAC address doesn't ever change/but, the IP address can change.
