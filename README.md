@@ -27,7 +27,7 @@ It is, also, well worth bearing in mind that there are many different kinds of c
 
 Each of these computing devices has it's own uniquely identifying MAC address...; to which can be assigned a unique IP address(IPv4: dotted quad: nnn:nnn:nnn:nnn). 
 
-The IP address can be assigned either 'statically'/or else, 'dynamically, instead. This means, the device MAC address doesn't ever change/but, the IP address can change.
+The IP address can be assigned either 'statically'/or else, 'dynamically, instead. This means, the device MAC address doesn't ever change/but, the device IP address can change.
 
 ## The pros and cons of Networking...
 
